@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_mine</folder>
+	<filename>qr3.JPG</filename>
+	<path>/Users/zhangliming/PycharmProjects/pytorch-retinanet/images_mine/qr3.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>523</ymin>
+			<xmax>546</xmax>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+</annotation>
